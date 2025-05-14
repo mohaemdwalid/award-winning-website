@@ -13,14 +13,23 @@
 ## 📋 Table of Contents
 
 1. [Introduction](#introduction)
-2. [Tech Stack](#tech-stack)
-3. [Features](#features)
-4. [Quick Start](#quick-start)
-5. [Adding Media to README](#adding-media)
+2. [Video Demonstrations](#video-demonstrations)
+3. [Tech Stack](#tech-stack)
+4. [Features](#features)
+5. [Quick Start](#quick-start)
+6. [Adding Media to README](#adding-media)
 
 ## 🤖 Introduction
 
 A visually captivating website featuring scroll-triggered animations, geometric transitions, and engaging video storytelling. This project delivers a luxurious, modern feel with engaging UI/UX and smooth responsiveness.
+
+## 🎥 Video Demonstrations
+
+### Desktop View
+<video src="public/videos/desktop-demo.mp4" width="100%" controls></video>
+
+### Mobile View
+<video src="public/videos/mobile-demo.mp4" width="100%" controls></video>
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
