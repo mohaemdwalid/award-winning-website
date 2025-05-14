@@ -1,35 +1,37 @@
-# Award-Winning Website
-
 <div align="center">
-  <img src="public/img/logo.png" alt="Project Logo" width="200"/>
-  
+  <br />
+    <a href="https://youtu.be/zA9r5zTllx4" target="_blank">
+      <img src="https://github.com/user-attachments/assets/ab600f24-f4d9-4cef-8f1e-3fd9194afb30" alt="Project Banner">
+    </a>
+  <br />
+
   <div>
     <img src="https://img.shields.io/badge/-React_JS-black?style=for-the-badge&logoColor=white&logo=react&color=61DAFB" alt="react.js" />
     <img src="https://img.shields.io/badge/-GSAP-black?style=for-the-badge&logoColor=white&logo=greensock&color=88CE02" alt="greensock" />
     <img src="https://img.shields.io/badge/-Tailwind_CSS-black?style=for-the-badge&logoColor=white&logo=tailwindcss&color=06B6D4" alt="tailwindcss" />
   </div>
+
+  <h3 align="center">An Awwwards Winning Website</h3>
+
+   <div align="center">
+     Build this project step by step with our detailed tutorial on <a href="https://www.youtube.com/@javascriptmastery/videos" target="_blank"><b>JavaScript Mastery</b></a> YouTube. Join the JSM family!
+    </div>
 </div>
 
-## 📋 Table of Contents
+## 📋 <a name="table">Table of Contents</a>
 
-1. [Introduction](#introduction)
-2. [Video Demonstrations](#video-demonstrations)
-3. [Tech Stack](#tech-stack)
-4. [Features](#features)
-5. [Quick Start](#quick-start)
-6. [Adding Media to README](#adding-media)
+1. 🤖 [Introduction](#introduction)
+2. ⚙️ [Tech Stack](#tech-stack)
+3. 🔋 [Features](#features)
+4. 🤸 [Quick Start](#quick-start)
+5. 🕸️ [Snippets (Code to Copy)](#snippets)
+6. 🔗 [Assets](#links)
+7. 🚀 [More](#more)
 
-## 🤖 Introduction
 
-A visually captivating website featuring scroll-triggered animations, geometric transitions, and engaging video storytelling. This project delivers a luxurious, modern feel with engaging UI/UX and smooth responsiveness.
 
-## 🎥 Video Demonstrations
 
-### Desktop View
-<video src="public/videos/desktop-demo.mp4" width="100%" controls></video>
 
-### Mobile View
-<video src="public/videos/mobile-demo.mp4" width="100%" controls></video>
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
