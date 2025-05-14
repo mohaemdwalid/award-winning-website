@@ -22,28 +22,13 @@
 
 ## 📋 <a name="table">Table of Contents</a>
 
-1. 🤖 [Introduction](#introduction)
-2. 🎥 [Video Demo](#video-demo)
-3. ⚙️ [Tech Stack](#tech-stack)
-4. 🔋 [Features](#features)
-5. 🤸 [Quick Start](#quick-start)
-6. 🕸️ [Snippets (Code to Copy)](#snippets)
-7. 🔗 [Assets](#links)
-8. 🚀 [More](#more)
+1. ⚙️ [Tech Stack](#tech-stack)
+2. 🔋 [Features](#features)
+3. 🤸 [Quick Start](#quick-start)
+4. 🕸️ [Snippets (Code to Copy)](#snippets)
 
-## 🤖 Introduction
 
-Build a visually captivating website inspired by **[Zentry](https://zentry.com/)**, featuring scroll-triggered animations, geometric transitions, and engaging video storytelling. Learn how to deliver a luxurious, modern feel, focusing on engaging UI/UX and smooth responsiveness, capturing the essence of what makes an Awwwards winner.
 
-## 🎥 Video Demo
-
-<div align="center">
-  <a href="https://github.com/mohaemdwalid/award-winning-website/blob/main/DemoVideo.mp4" target="_blank">
-    <img src="public/img/play.svg" alt="Play Demo" width="50"/>
-    <br/>
-    Watch Website Demo
-  </a>
-</div>
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
